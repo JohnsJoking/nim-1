@@ -29,16 +29,16 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: 'Proxmox Home Server',
     description:
-      'Advanced components and templates to craft beautiful websites.',
+      'Built and maintain a Proxmox home server leveraging virtualization and LXC containers to run media services, network tools, and cybersecurity lab environments.',
     link: 'https://pro.motion-primitives.com/',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
   },
   {
-    name: 'Motion Primitives',
+    name: '*ARR Stack',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
     video:
@@ -49,9 +49,9 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
-    start: '2024',
+    company: 'CLVG Consulting/AFS',
+    title: 'Business Systems Analyst',
+    start: '2025',
     end: 'Present',
     link: 'https://ibelick.com',
     id: 'work1',
